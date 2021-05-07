@@ -9,7 +9,7 @@ body
 }
 #cabecera
  {
-    background:  ;
+    background:  #1e1f24;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -35,7 +35,7 @@ body
     padding: 1em;
 }body
 {
-    color: ;
+    color: #333;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
